@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Companion
+Comment=Quick highlights of GNUCash information
+Type=Service
+
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Tristian Celestin
+X-KDE-PluginInfo-Email=tristian.celestin@outlook.com
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-Name=com.tristserv.companion
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=plasma.kde.org
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-PluginInfo-Category=Miscellaneous
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
